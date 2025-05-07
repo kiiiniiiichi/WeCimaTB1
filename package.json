@@ -1,0 +1,24 @@
+{
+  "name": "@xHiqhAim/WeCima",
+  "appName": "WeCima",
+  "version": "1.0",
+  "description": "WeCima with adblocker",
+  "packageType": "mods",
+  "websiteURL": "https://wecima.film/",
+  "main": "scripts/userScript.js",
+  "author": "xHiqhAim",
+  "keys": [
+    "MediaPlayPause",
+    "MediaPlay",
+    "MediaPause",
+    "MediaStop",
+    "MediaFastForward",
+    "MediaRewind",
+    "MediaTrackNext",
+    "MediaTrackPrevious"
+  ],
+  "repository": {
+    "url": "https://github.com/kiiiniiiichi/WeCima"
+  },
+  "license": "GPL-3.0-only"
+}
